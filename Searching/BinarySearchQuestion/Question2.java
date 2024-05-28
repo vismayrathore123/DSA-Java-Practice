@@ -10,7 +10,7 @@
 // target = 5 
 // Output: Element found at index 3
 
-package Searching.BinarySearchQuestion;
+package searching.BinarySearchQuestion;
 
 class Question2
 {

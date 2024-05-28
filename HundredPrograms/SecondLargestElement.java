@@ -1,5 +1,3 @@
-package hundredproblems;
-
 import java.util.Arrays;
 
 public class SecondLargestElement {

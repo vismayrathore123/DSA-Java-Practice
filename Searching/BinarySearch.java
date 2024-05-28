@@ -1,4 +1,4 @@
-package Searching;
+package searching;
 public class BinarySearch {
     public static int PrintBinarySearch(int arr[], int target){
         int left=0;

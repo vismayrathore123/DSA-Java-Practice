@@ -1,5 +1,3 @@
-package hundredproblems;
-
 public class Count1inBinaryArray {
     public int  count(int arr[]){
     int n=arr.length;

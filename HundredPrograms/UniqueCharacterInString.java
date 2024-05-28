@@ -1,4 +1,3 @@
-package hundredproblems;
 import java.util.HashSet;
 
 public class UniqueCharacterInString {
@@ -13,7 +12,6 @@ public class UniqueCharacterInString {
             if(!set.add(c)){
                 return false;
             }
-            
         }
         return true;
     }

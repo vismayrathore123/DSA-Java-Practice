@@ -1,4 +1,4 @@
-package Sorting;
+package sorting;
 public class SelectionSort {
     public static void printArray(int arr[]){
         int n=arr.length;

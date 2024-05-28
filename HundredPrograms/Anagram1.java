@@ -1,9 +1,9 @@
-package hundredproblems;
-
+import java.lang.reflect.Array;
 import java.util.Arrays;
+import java.util.Locale;
 
-public class Anagram {
-     public boolean angramWords(String str,String str1){
+public class Anagram1 {
+    public boolean angramWords(String str,String str1){
             if(str.length()!=str1.length()){
                 return false;
             }
@@ -20,7 +20,7 @@ public class Anagram {
     public static void main(String[] args) {
         String str= "race";
         String str1="care";
-    Anagram ag=new Anagram();
+    Anagram1 ag=new Anagram1();
     boolean areAnagram=ag.angramWords(str,str1);
     if(areAnagram){
         System.out.println(str1+" "+ " "+str + "is anagram");

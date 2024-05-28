@@ -1,4 +1,4 @@
-package DSA_Sheet;
+package dsa_sheet;
 
 // Given an array (or string), the task is to reverse the array/string.
 

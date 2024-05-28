@@ -6,7 +6,7 @@
 //Output: The array is rotated 3 times  
 //Input:  nums = [2, 5, 6, 8, 9, 10]
 //Output: The array is rotated 0 times
-package Searching.BinarySearchQuestion;
+package searching.BinarySearchQuestion;
 
 import java.util.Arrays;
 

@@ -27,7 +27,7 @@
 // Explanation :
 // 4th smallest element in the given 
 // array is 15.
-package DSA_Sheet;
+package dsa_sheet;
 import java.util.Arrays;
 
 public class kthSmallestElement {
